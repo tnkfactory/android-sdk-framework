@@ -1,7 +1,14 @@
 # Tnkfactory SDK Framework
 
-###### version
+- ## 1. SDK 설정하기
 
-- v1.0.1 (2020.01.16)
-- v1.0.2 (2020.01.17)
+  아래의 코드를 App Module의 build.gradle 파일에 추가해주세요.
+
+  [![Download](https://api.bintray.com/packages/tnkfactory/android-sdk/framework/images/download.svg)](https://bintray.com/tnkfactory/android-sdk/framework/_latestVersion)
+
+  ```gradle
+  dependencies {
+      implementation 'com.tnkfactory.framework:framework:x.y.z'
+  }
+  ```
 
